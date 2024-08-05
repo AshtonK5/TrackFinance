@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashto\\Desktop\\TrackFinance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F22AD366-2380-4DCA-AA2D-684EE5B21B83}|TrackFinance.csproj|c:\\users\\ashto\\desktop\\trackfinance\\src\\commands\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22AD366-2380-4DCA-AA2D-684EE5B21B83}|TrackFinance.csproj|solutionrelative:src\\commands\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22AD366-2380-4DCA-AA2D-684EE5B21B83}|TrackFinance.csproj|c:\\users\\ashto\\desktop\\trackfinance\\src\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22AD366-2380-4DCA-AA2D-684EE5B21B83}|TrackFinance.csproj|solutionrelative:src\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22AD366-2380-4DCA-AA2D-684EE5B21B83}|TrackFinance.csproj|c:\\users\\ashto\\desktop\\trackfinance\\src\\budgetsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22AD366-2380-4DCA-AA2D-684EE5B21B83}|TrackFinance.csproj|solutionrelative:src\\budgetsheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22AD366-2380-4DCA-AA2D-684EE5B21B83}|TrackFinance.csproj|c:\\users\\ashto\\desktop\\trackfinance\\src\\tablerowformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22AD366-2380-4DCA-AA2D-684EE5B21B83}|TrackFinance.csproj|solutionrelative:src\\tablerowformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22AD366-2380-4DCA-AA2D-684EE5B21B83}|TrackFinance.csproj|c:\\users\\ashto\\desktop\\trackfinance\\examples\\tableformat.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F22AD366-2380-4DCA-AA2D-684EE5B21B83}|TrackFinance.csproj|solutionrelative:examples\\tableformat.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BudgetSheet.cs",
+              "DocumentMoniker": "C:\\Users\\ashto\\Desktop\\TrackFinance\\src\\BudgetSheet.cs",
+              "RelativeDocumentMoniker": "src\\BudgetSheet.cs",
+              "ToolTip": "C:\\Users\\ashto\\Desktop\\TrackFinance\\src\\BudgetSheet.cs",
+              "RelativeToolTip": "src\\BudgetSheet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:00:06.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\ashto\\Desktop\\TrackFinance\\src\\Application.cs",
+              "RelativeDocumentMoniker": "src\\Application.cs",
+              "ToolTip": "C:\\Users\\ashto\\Desktop\\TrackFinance\\src\\Application.cs",
+              "RelativeToolTip": "src\\Application.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T02:45:16.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableRowFormat.cs",
+              "DocumentMoniker": "C:\\Users\\ashto\\Desktop\\TrackFinance\\src\\TableRowFormat.cs",
+              "RelativeDocumentMoniker": "src\\TableRowFormat.cs",
+              "ToolTip": "C:\\Users\\ashto\\Desktop\\TrackFinance\\src\\TableRowFormat.cs",
+              "RelativeToolTip": "src\\TableRowFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T23:33:57.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "show.cs",
+              "DocumentMoniker": "C:\\Users\\ashto\\Desktop\\TrackFinance\\src\\Commands\\show.cs",
+              "RelativeDocumentMoniker": "src\\Commands\\show.cs",
+              "ToolTip": "C:\\Users\\ashto\\Desktop\\TrackFinance\\src\\Commands\\show.cs",
+              "RelativeToolTip": "src\\Commands\\show.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:36:58.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableFormat.txt",
+              "DocumentMoniker": "C:\\Users\\ashto\\Desktop\\TrackFinance\\examples\\TableFormat.txt",
+              "RelativeDocumentMoniker": "examples\\TableFormat.txt",
+              "ToolTip": "C:\\Users\\ashto\\Desktop\\TrackFinance\\examples\\TableFormat.txt",
+              "RelativeToolTip": "examples\\TableFormat.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-31T01:09:08.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
