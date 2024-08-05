@@ -17,7 +17,7 @@ public struct Transaction
 	/// <summary>
 	/// Transaction amount (USD)
 	/// </summary>
-	public double Amount;
+	public float Amount;
 
 
 	public string Name;
@@ -35,7 +35,7 @@ public struct Transaction
 	public string ID;
 
 
-	public Transaction(ETransactionType type, double amt, string name, string category, string? account)
+	public Transaction(ETransactionType type, float amt, string name, string category, string? account)
 	{
 		Type = type;
 		Amount = amt;

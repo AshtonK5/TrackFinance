@@ -5,7 +5,7 @@ public class TransactionCommand : Command
 {
     public Argument<ETransactionType> TypeArgument;
 
-    public Argument<double> AmountArgument;
+    public Argument<float> AmountArgument;
 
     public Argument<string> NameArgument;
 
@@ -16,7 +16,7 @@ public class TransactionCommand : Command
     public TransactionCommand(string name, string? desc) : base(name, desc)
     {
         TypeArgument = new Argument<ETransactionType>("Type", getDefaultValue: () => ETransactionType.Expense);
-        AmountArgument = new Argument<double>("Amount", getDefaultValue: () => 0);
+        AmountArgument = new Argument<float>("Amount", getDefaultValue: () => 0);
         NameArgument = new Argument<string>("Transaction");
         CategoryArgument = new Argument<string>("Category", getDefaultValue: () => string.Empty);
         AccountArgument = new Argument<string>("Account", getDefaultValue: () => string.Empty);

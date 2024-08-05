@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ashto\\Desktop\\TrackFinance\\TrackFinance.csproj": {}
+    "D:\\dev\\Projects\\CS\\TrackFinance\\TrackFinance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ashto\\Desktop\\TrackFinance\\TrackFinance.csproj": {
+    "D:\\dev\\Projects\\CS\\TrackFinance\\TrackFinance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ashto\\Desktop\\TrackFinance\\TrackFinance.csproj",
+        "projectUniqueName": "D:\\dev\\Projects\\CS\\TrackFinance\\TrackFinance.csproj",
         "projectName": "TrackFinance",
-        "projectPath": "C:\\Users\\ashto\\Desktop\\TrackFinance\\TrackFinance.csproj",
+        "projectPath": "D:\\dev\\Projects\\CS\\TrackFinance\\TrackFinance.csproj",
         "packagesPath": "C:\\Users\\ashto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ashto\\Desktop\\TrackFinance\\obj\\",
+        "outputPath": "D:\\dev\\Projects\\CS\\TrackFinance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

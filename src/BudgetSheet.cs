@@ -4,7 +4,7 @@ using System.Text.Json.Serialization;
 
 public class BudgetSheet
 {
-    public double CurrentBalance { get; private set; } = 0.00;
+    public float CurrentBalance { get; private set; } = 0.00f;
     public string Name { get; private set; }
     public string FilePath { get; private set; }
     public List<Transaction> Transactions { get; private set; }
@@ -12,7 +12,7 @@ public class BudgetSheet
     public static string FileExtensionName { get; private set; } = ".bds";
 
     [JsonConstructor]
-    public BudgetSheet(string name, string filePath, double currentBalance, List<Transaction> transactions)
+    public BudgetSheet(string name, string filePath, float currentBalance, List<Transaction> transactions)
     {
         Name = name;
         FilePath = filePath;
